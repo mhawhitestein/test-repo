@@ -8,3 +8,4 @@ new brach commit2
 new brach commit3
 new branch2
 new branch2 - commit2
+new branch2 - commit3
