@@ -9,3 +9,5 @@ new brach commit3
 new branch2
 new branch2 - commit2
 new branch2 - commit3
+branch3 - commit1
+branch3 - commit2
